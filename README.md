@@ -9,3 +9,4 @@ kali@kali:~$ chmod +x install-nethunter-termux
 
 kali@kali:~$ ./install-nethunter-termux
 
+what group - https://chat.whatsapp.com/FDqS8mGH60p9kxJI3KHKzl
